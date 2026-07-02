@@ -49,7 +49,7 @@
             </div>
 
             <!-- Description Box -->
-            <div class="bg-black bg-opacity-15 backdrop-blur-md rounded-xl p-8 mb-12 border border-white border-opacity-20 shadow-xl">
+            <div class="bg-white bg-opacity-15 backdrop-blur-md rounded-xl p-8 mb-12 border border-white border-opacity-20 shadow-xl">
                 <p class="text-lg leading-relaxed text-white">
                     Platform terpadu untuk monitoring dan evaluasi Pola Pangan Harapan (PPH) di Kabupaten Kampar. 
                     Kelola survei, data responden, dan analisis konsumsi pangan secara real-time dengan dashboard interaktif.
@@ -58,17 +58,17 @@
 
             <!-- Features Grid -->
             <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
-                <div class="bg-black bg-opacity-10 backdrop-blur-md rounded-xl p-6 border border-white border-opacity-20 hover:bg-opacity-20 transition shadow-lg">
+                <div class="bg-white bg-opacity-10 backdrop-blur-md rounded-xl p-6 border border-white border-opacity-20 hover:bg-opacity-20 transition shadow-lg">
                     <div class="text-5xl mb-4">📊</div>
                     <h3 class="text-xl font-bold text-white mb-2">Dashboard Interaktif</h3>
                     <p class="text-white opacity-90 text-sm">KPI real-time dan visualisasi data PPH dengan chart canggih</p>
                 </div>
-                <div class="bg-black bg-opacity-10 backdrop-blur-md rounded-xl p-6 border border-white border-opacity-20 hover:bg-opacity-20 transition shadow-lg">
+                <div class="bg-white bg-opacity-10 backdrop-blur-md rounded-xl p-6 border border-white border-opacity-20 hover:bg-opacity-20 transition shadow-lg">
                     <div class="text-5xl mb-4">📋</div>
                     <h3 class="text-xl font-bold text-white mb-2">Manajemen Survei</h3>
                     <p class="text-white opacity-90 text-sm">Kelola survei, responden, dan data konsumsi pangan</p>
                 </div>
-                <div class="bg-black bg-opacity-10 backdrop-blur-md rounded-xl p-6 border border-white border-opacity-20 hover:bg-opacity-20 transition shadow-lg">
+                <div class="bg-white bg-opacity-10 backdrop-blur-md rounded-xl p-6 border border-white border-opacity-20 hover:bg-opacity-20 transition shadow-lg">
                     <div class="text-5xl mb-4">📈</div>
                     <h3 class="text-xl font-bold text-white mb-2">Laporan & Analisis</h3>
                     <p class="text-white opacity-90 text-sm">Export laporan PDF dan analitik mendalam per kecamatan</p>
